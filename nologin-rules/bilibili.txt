@@ -1,0 +1,5 @@
+! Title: oh-my-blockrule: Bilibili 匿名
+www.bilibili.com##.unlogin-popover,.login-tip,.video-toolbar>.rigth-btn,.international-header
+www.bilibili.com#$#.bilibili-player-video-inputbar {visibility:hidden}
+
+search.bilibili.com##.unlogin-popover,.nav-user-center,.login-tip,.watch-later
