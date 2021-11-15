@@ -10,7 +10,7 @@
 
 | 站点          | 链接                                                                                       |
 | ------------- | ------------------------------------------------------------------------------------------ |
-| StackExchange | [右键复制](https://raw.githubusercontent.com/LittleboyHarry/oh-my-blockrule/master/nologin-rules/stackexchange.txt) |
+| StackExchange | [右键复制](https://raw.githubusercontent.com/LittleboyHarry/oh-my-blockrule/main/nologin-rules/stackexchange.txt) |
 
 ## 免责声明
 
