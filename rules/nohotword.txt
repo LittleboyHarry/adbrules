@@ -1,3 +1,5 @@
 ! Title: oh-my-blockrule: 热词排行榜屏蔽
 www.zhihu.com##.TopSearch
+
 www.baidu.com##.FYB_RD
+www.baidu.com##.s-hotsearch-wrapper
