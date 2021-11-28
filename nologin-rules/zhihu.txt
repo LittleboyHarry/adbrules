@@ -1,0 +1,7 @@
+! Title: oh-my-blockrule: 知乎未登录
+www.zhihu.com##.Question-mainColumnLogin
+www.zhihu.com##.AppBanner-layout
+www.zhihu.com##.AppHeader-login.Button
+www.zhihu.com##.QuestionButtonGroup
+www.zhihu.com##.QuestionHeaderActions > .Button
+www.zhihu.com##.GoodQuestionAction-commonBtn

@@ -1,3 +1,3 @@
-! Title: oh-my-blockrule: CSDN 匿名
+! Title: oh-my-blockrule: CSDN 未登录
 blog.csdn.net##.csdn-redpack-container,.passport-login-container,.toolbar-container,.more-toolbox-new,.csdn-side-toolbar,.article-search-tip,toolbar-advert-default
 blog.csdn.net#$##content_views pre code { user-select:text !important }

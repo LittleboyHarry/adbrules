@@ -1,4 +1,4 @@
-! Title: oh-my-blockrule: Bilibili 匿名
+! Title: oh-my-blockrule: Bilibili 未登录
 www.bilibili.com##.unlogin-popover,.login-tip,.video-toolbar>.rigth-btn,.international-header
 www.bilibili.com#$#.bilibili-player-video-inputbar {visibility:hidden}
 
