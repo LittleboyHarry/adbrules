@@ -12,16 +12,16 @@
 
 | 站点          | 链接                                                                                                              |
 | ------------- | ----------------------------------------------------------------------------------------------------------------- |
-| StackExchange | [右键复制](https://raw.githubusercontent.com/LittleboyHarry/oh-my-blockrule/main/nologin-rules/stackexchange.txt) |
-| Bilibili      | [右键复制](https://raw.githubusercontent.com/LittleboyHarry/oh-my-blockrule/main/nologin-rules/bilibili.txt)      |
-| CSDN          | [右键复制](https://raw.githubusercontent.com/LittleboyHarry/oh-my-blockrule/main/nologin-rules/csdn.txt)          |
-| 知乎          | [右键复制](https://raw.githubusercontent.com/LittleboyHarry/oh-my-blockrule/main/nologin-rules/zhihu.txt)         |
+| StackExchange | [拖我粘贴](https://raw.githubusercontent.com/LittleboyHarry/oh-my-blockrule/main/nologin-rules/stackexchange.txt) |
+| Bilibili      | [拖我粘贴](https://raw.githubusercontent.com/LittleboyHarry/oh-my-blockrule/main/nologin-rules/bilibili.txt)      |
+| CSDN          | [拖我粘贴](https://raw.githubusercontent.com/LittleboyHarry/oh-my-blockrule/main/nologin-rules/csdn.txt)          |
+| 知乎          | [拖我粘贴](https://raw.githubusercontent.com/LittleboyHarry/oh-my-blockrule/main/nologin-rules/zhihu.txt)         |
 
 功能型：
 
 | 站点           | 链接                                                                                                  |
 | -------------- | ----------------------------------------------------------------------------------------------------- |
-| 热词排行榜屏蔽 | [右键复制](https://raw.githubusercontent.com/LittleboyHarry/oh-my-blockrule/main/rules/nohotword.txt) |
+| 热词排行榜屏蔽 | [拖我粘贴](https://raw.githubusercontent.com/LittleboyHarry/oh-my-blockrule/main/rules/nohotword.txt) |
 
 ## 免责声明
 
