@@ -1,4 +1,4 @@
-# oh-my-blockrule 我的过滤列表
+# 我的过滤列表
 
 免登陆、无弹窗，为常用网站优化体验。
 
@@ -12,16 +12,16 @@
 
 | 站点          | 链接                                                                                                              |
 | ------------- | ----------------------------------------------------------------------------------------------------------------- |
-| StackExchange | [拖我粘贴](https://raw.githubusercontent.com/LittleboyHarry/oh-my-blockrule/main/nologin-rules/stackexchange.txt) |
-| Bilibili      | [拖我粘贴](https://raw.githubusercontent.com/LittleboyHarry/oh-my-blockrule/main/nologin-rules/bilibili.txt)      |
-| CSDN          | [拖我粘贴](https://raw.githubusercontent.com/LittleboyHarry/oh-my-blockrule/main/nologin-rules/csdn.txt)          |
-| 知乎          | [拖我粘贴](https://raw.githubusercontent.com/LittleboyHarry/oh-my-blockrule/main/nologin-rules/zhihu.txt)         |
+| StackExchange | [拖我粘贴](https://raw.githubusercontent.com/LittleboyHarry/oh-my-blockrules/main/nologin-rules/stackexchange.txt) |
+| Bilibili      | [拖我粘贴](https://raw.githubusercontent.com/LittleboyHarry/oh-my-blockrules/main/nologin-rules/bilibili.txt)      |
+| CSDN          | [拖我粘贴](https://raw.githubusercontent.com/LittleboyHarry/oh-my-blockrules/main/nologin-rules/csdn.txt)          |
+| 知乎          | [拖我粘贴](https://raw.githubusercontent.com/LittleboyHarry/oh-my-blockrules/main/nologin-rules/zhihu.txt)         |
 
 功能型：
 
 | 站点           | 链接                                                                                                  |
 | -------------- | ----------------------------------------------------------------------------------------------------- |
-| 热词排行榜屏蔽 | [拖我粘贴](https://raw.githubusercontent.com/LittleboyHarry/oh-my-blockrule/main/rules/nohotword.txt) |
+| 热词排行榜屏蔽 | [拖我粘贴](https://raw.githubusercontent.com/LittleboyHarry/oh-my-blockrules/main/rules/nohotword.txt) |
 
 ## 免责声明
 
