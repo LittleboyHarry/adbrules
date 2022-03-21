@@ -8,20 +8,28 @@
 
 复制需要的链接地址导入到 uBlock 或 AdBlock 插件中。本项目遵从 Unix 原则“一个规则列表只做好一件事”
 
-免登陆环境适用：
+### 免登陆环境适用
 
-| 站点          | 链接                                                                                                              |
-| ------------- | ----------------------------------------------------------------------------------------------------------------- |
-| StackExchange | [拖我粘贴](https://raw.githubusercontent.com/LittleboyHarry/oh-my-blockrules/main/nologin-rules/stackexchange.txt) |
-| Bilibili      | [拖我粘贴](https://raw.githubusercontent.com/LittleboyHarry/oh-my-blockrules/main/nologin-rules/bilibili.txt)      |
-| CSDN          | [拖我粘贴](https://raw.githubusercontent.com/LittleboyHarry/oh-my-blockrules/main/nologin-rules/csdn.txt)          |
-| 知乎          | [拖我粘贴](https://raw.githubusercontent.com/LittleboyHarry/oh-my-blockrules/main/nologin-rules/zhihu.txt)         |
+```shell
+# StackExchange
+https://cdn.jsdelivr.net/gh/LittleboyHarry/oh-my-blockrules@main/nologin-rules/stackexchange.txt
 
-功能型：
+# 哔哩哔哩
+https://cdn.jsdelivr.net/gh/LittleboyHarry/oh-my-blockrules@main/nologin-rules/bilibili.txt
 
-| 站点           | 链接                                                                                                  |
-| -------------- | ----------------------------------------------------------------------------------------------------- |
-| 热词排行榜屏蔽 | [拖我粘贴](https://raw.githubusercontent.com/LittleboyHarry/oh-my-blockrules/main/rules/nohotword.txt) |
+# CSDN
+https://cdn.jsdelivr.net/gh/LittleboyHarry/oh-my-blockrules@main/nologin-rules/csdn.txt
+
+# 知乎
+https://cdn.jsdelivr.net/gh/LittleboyHarry/oh-my-blockrules@main/nologin-rules/zhihu.txt
+```
+
+### 功能型增强型
+
+```shell
+# 热词排行榜屏蔽
+https://cdn.jsdelivr.net/gh/LittleboyHarry/oh-my-blockrules@main/rules/nohotword.txt
+```
 
 ## 免责声明
 
