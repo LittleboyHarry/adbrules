@@ -8,6 +8,13 @@
 
 复制需要的链接地址导入到 uBlock 或 AdBlock 插件中。本项目遵从 Unix 原则“一个规则列表只做好一件事”
 
+### 功能型增强型
+
+```shell
+# 热词排行榜屏蔽
+https://cdn.jsdelivr.net/gh/LittleboyHarry/oh-my-blockrules@main/rules/nohotword.txt
+```
+
 ### 免登陆环境适用
 
 ```shell
@@ -23,13 +30,6 @@ https://cdn.jsdelivr.net/gh/LittleboyHarry/oh-my-blockrules@main/nologin-rules/c
 # 知乎
 https://cdn.jsdelivr.net/gh/LittleboyHarry/oh-my-blockrules@main/nologin-rules/zhihu.txt
 
-```
-
-### 功能型增强型
-
-```shell
-# 热词排行榜屏蔽
-https://cdn.jsdelivr.net/gh/LittleboyHarry/oh-my-blockrules@main/rules/nohotword.txt
 ```
 
 ## 免责声明
