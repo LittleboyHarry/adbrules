@@ -1,2 +1,2 @@
-! Title: oh-my-blockrule: CSDN 未登录
+! Title: adrules: CSDN
 blog.csdn.net#$##content_views pre code { user-select:text !important }

@@ -1,2 +1,2 @@
-! Title: oh-my-blockrule: stackexchange nologin
+! Title: adrules: stackexchange nologin
 askubuntu.com,mathoverflow.net,serverfault.com,stackexchange.com,stackoverflow.com,superuser.com##.js-consent-banner,.js-dismissable-hero,.user-logged-out,.js-freemium-cta

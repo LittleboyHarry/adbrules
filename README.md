@@ -13,16 +13,10 @@
 https://cdn.jsdelivr.net/gh/LittleboyHarry/adbrules@main/rules/nohotword.txt
 
 # StackExchange
-https://cdn.jsdelivr.net/gh/LittleboyHarry/adbrules@main/nologin-rules/stackexchange.txt
-
-# 哔哩哔哩
-https://cdn.jsdelivr.net/gh/LittleboyHarry/adbrules@main/nologin-rules/bilibili.txt
+https://cdn.jsdelivr.net/gh/LittleboyHarry/adbrules@main/rules/stackexchange.txt
 
 # CSDN
-https://cdn.jsdelivr.net/gh/LittleboyHarry/adbrules@main/nologin-rules/csdn.txt
-
-# 知乎
-https://cdn.jsdelivr.net/gh/LittleboyHarry/adbrules@main/nologin-rules/zhihu.txt
+https://cdn.jsdelivr.net/gh/LittleboyHarry/adbrules@main/rules/csdn.txt
 
 ```
 
